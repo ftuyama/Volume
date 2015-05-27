@@ -1,0 +1,11 @@
+C:\Users\Felipe\documents\visual studio 2010\Projects\Volume\Volume\obj\x86\Debug\Volume.Resources.resources
+C:\Users\Felipe\documents\visual studio 2010\Projects\Volume\Volume\obj\x86\Debug\Volume.vbproj.GenerateResource.Cache
+C:\Users\Felipe\documents\visual studio 2010\Projects\Volume\Volume\obj\x86\Debug\Volume.vbprojResolveAssemblyReference.cache
+C:\Users\Felipe\documents\visual studio 2010\Projects\Volume\Volume\bin\Debug\Volume.exe
+C:\Users\Felipe\documents\visual studio 2010\Projects\Volume\Volume\bin\Debug\Volume.pdb
+C:\Users\Felipe\documents\visual studio 2010\Projects\Volume\Volume\bin\Debug\Volume.xml
+C:\Users\Felipe\documents\visual studio 2010\Projects\Volume\Volume\bin\Debug\CoreAudio.dll
+C:\Users\Felipe\documents\visual studio 2010\Projects\Volume\Volume\obj\x86\Debug\Volume.exe
+C:\Users\Felipe\documents\visual studio 2010\Projects\Volume\Volume\obj\x86\Debug\Volume.xml
+C:\Users\Felipe\documents\visual studio 2010\Projects\Volume\Volume\obj\x86\Debug\Volume.pdb
+C:\Users\Felipe\documents\visual studio 2010\Projects\Volume\Volume\obj\x86\Debug\Volume.Amplificador.resources
